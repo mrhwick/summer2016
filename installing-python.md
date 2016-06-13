@@ -15,7 +15,7 @@ To install Homebrew, copy the following command into your terminal window:
 Once you have Homebrew installed, the first thing to do is update Homebrew's knowledge of the packages available on the internet. You can do so by running this command in your terminal:
 
 ```bash
-brew update
+sudo brew update
 ```
 
 Finally, we can install python using a very simple command:
